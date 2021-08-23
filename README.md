@@ -13,10 +13,10 @@
 
 
 
-__*Tjock och kursiv text__
+__*Tjock och kursiv text__*
 
 
 
-*__Tjock och kursiv text__*
+__*Tjock och kursiv text*__
 
 

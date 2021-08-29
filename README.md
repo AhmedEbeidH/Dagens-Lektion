@@ -27,7 +27,15 @@ __*Tjock och kursiv text*__
 *__Tjock och kursiv text__*
 
 
-Hej **_Tjock och kursiv text_** Hur mår du
+Hej **_Tjock och kursiv text_** Nånting
+
+Hej __*Tjock och kursiv text*__ Nånting
+
+Hej *__Tjock och kursiv text__*
+
+~~Genomstruken text~~
+
+
 
 
 

@@ -76,3 +76,6 @@ Hej *__Tjock och kursiv text__*
 
 [1](https://www.google.com/)
 
+## Bilder
+
+[Bild1]https://miro.medium.com/

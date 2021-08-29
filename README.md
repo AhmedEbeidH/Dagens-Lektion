@@ -1,6 +1,6 @@
-# H1
+# H
 
-## H2
+## H
 
 ### H3
 
@@ -72,6 +72,4 @@ Hej *__Tjock och kursiv text__*
 3. Elgiganten
    - Extra monitor
 
-## Länkar
-
-[Länk till google.com](https://www.google.com/)
+## Länka

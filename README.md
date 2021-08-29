@@ -78,5 +78,6 @@ Hej *__Tjock och kursiv text__*
 
 ## Bilder
 
-[Bild1]https://miro.medium.com/200/200
+![Random bild](https://miro.medium.com/
+
 

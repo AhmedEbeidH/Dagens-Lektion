@@ -84,26 +84,6 @@ Ladda ner filen [här][1] då vi inte har den själva.
 
 ### Länk till bild på internet
 
-![Random bild](https://miro.medium.com/max/1400/1*t_G1kZwKv0p2arQCgYG7IQ.gif)
+![Random bild](https://miro.medium.com/
 
 ### Länk till bild i root
-
-![Tärningar](360fx360f.png)
-
-### Länk till bild i vår image (img) mapp
-
-![Steam logo](img/logo_steam.svg)
-
-## Länk till annan fil
-
-[Ny sida om mig](om_mig.md)
-
-[Om mig 2](om_mig2.md)
-
-## Länk med bild
-
-[![Steam logo](img/logo_steam.svg)](https://www.google.com/)
-
-[![Steam logo](img/logo_steam.svg)][1]
-
-[2021-08-24 Lektion](2021-08-24.md)

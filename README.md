@@ -75,15 +75,3 @@ Hej *__Tjock och kursiv text__*
 ## Länkar
 
 [Länk till google.com](https://www.google.com/)
-
-Ladda ner filen [här][1] då vi inte har den själva.
-
-[1]: https://www.google.com/
-
-## Bilder
-
-### Länk till bild på internet
-
-![Random bild](https://miro.medium.com/
-
-### Länk till bild i root

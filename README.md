@@ -16,7 +16,7 @@ Storlek på brödtext
 
 ## Emfas
 
-**Tjock text med stjärna**
+_**Tjock text med stjärna**_
 
 __Tjock text 2 med underscore__
 

@@ -20,14 +20,10 @@ _**Tjock text med stjärna**_
 
 __Tjock text 2 med underscore__
 
+_**Tjock och kursiv text**_
+__*Tjock och kursiv text*__  
+*__Tjock och kursiv text__*
 
-*Kusivtext*
-
-_kursivtext_
-
-_** Tjock och kursiv text**_
-
-*_Tjock och kursiv text_*
 
 Hej **_Tjock och kursiv text_** Hur mår du
 

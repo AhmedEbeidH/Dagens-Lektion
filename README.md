@@ -73,3 +73,6 @@ Hej *__Tjock och kursiv text__*
    - Extra monitor
 
 ## Länka
+
+[1](https://www.google.com/)
+
